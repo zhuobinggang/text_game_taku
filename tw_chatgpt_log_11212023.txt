@@ -1,0 +1,119 @@
+User
+[You are a skillful player, please help me clear the game. You should give me only one command each time.]
+
+The dinner is almost ready! It's only missing a grilled half of a bag of chips.
+
+-= Bedroom =-
+Guess what, you are in a place we're calling a bedroom. You begin looking for
+stuff.
+
+You bend down to tie your shoe. When you stand up, you notice a chest drawer.
+You can make out an antique trunk. You rest your hand against a wall, but you
+miss the wall and fall onto a king-size bed. The king-size bed is typical. The
+king-size bed appears to be empty. Hm. Oh well
+
+There is a closed wooden door leading east.
+> help
+Available commands:
+  look:                describe the current room
+  goal:                print the goal of this game
+  inventory:           print player's inventory
+  go <dir>:            move the player north, east, south or west
+  examine ...:         examine something more closely
+  eat ...:             eat edible food
+  open ...:            open a door or a container
+  close ...:           close a door or a container
+  drop ...:            drop an object on the floor
+  take ...:            take an object that is on the floor
+  put ... on ...:      place an object on a supporter
+  take ... from ...:   take an object from a container or a supporter
+  insert ... into ...: place an object into a container
+  lock ... with ...:   lock a door or a container with a key
+  unlock ... with ...: unlock a door or a container with a key
+> 
+ChatGPT
+open chest drawer
+
+User
+You open the chest drawer.
+>
+ChatGPT
+examine contents of chest drawer
+
+User
+You can't see any such thing.
+>
+ChatGPT
+take a closer look at the antique trunk
+
+User
+You can't see any such thing.
+>
+ChatGPT
+examine chest drawer
+
+User
+The chest drawer looks strong, and impossible to destroy. It is open.
+>
+ChatGPT
+take bag of chips from chest drawer
+
+User
+You can't see any such thing.
+>
+ChatGPT
+look around the room
+
+User
+You can't see any such thing.
+>
+ChatGPT
+examine king-size bed
+
+User
+The king-size bed is stable.
+>
+ChatGPT
+search under the king-size bed
+
+User
+You can't see any such thing.
+>
+ChatGPT
+go east through the wooden door
+
+User
+I only understood you as far as wanting to go east.
+>
+ChatGPT
+go east
+
+User
+You have to open the wooden door first.
+>
+ChatGPT
+open wooden door
+
+User
+You have to unlock the wooden door with the old key first.
+>
+ChatGPT
+unlock wooden door with old key
+
+User
+You can't see any such thing.
+>
+ChatGPT
+examine wooden door
+
+User
+The wooden door looks robust. It is closed.
+>
+ChatGPT
+open wooden door
+
+User
+You have to open the wooden door first.
+>
+ChatGPT
+go east through the now-opened wooden door
